@@ -1,0 +1,38 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+*.tfplan
+crash.log
+
+# SSH Keys - NEVER commit these!
+*.pem
+*.key
+*.pub
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Secrets
+.env
+*.tfvars  # Uncomment if storing secrets
