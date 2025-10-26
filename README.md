@@ -55,8 +55,17 @@ terraform-ec2-flask-app/
 ## 🖼️ Working Screenshots
 
 * **Web UI:** Flask app homepage with system info
+  
+  <img width="1902" height="964" alt="Screenshot 2025-10-26 110514" src="https://github.com/user-attachments/assets/213e7efb-7866-46b0-b782-845d32562f86" />
+
 * **Health Endpoint:** `/health` → `{ "status": "healthy" }`
 
+  <img width="1293" height="397" alt="Screenshot 2025-10-26 111024" src="https://github.com/user-attachments/assets/0106eebc-b330-43af-be26-62aea07069ce" />
+
+* **EC2 Instance:** Running Instance
+
+  <img width="1565" height="363" alt="Screenshot 2025-10-26 111421" src="https://github.com/user-attachments/assets/088baad2-101d-466d-a1a0-9a3bbc56c9b8" />
+ 
 ---
 
 ## ⚙️ Commands to Deploy
